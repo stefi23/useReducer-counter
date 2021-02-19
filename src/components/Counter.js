@@ -23,7 +23,7 @@ const Counter = () => {
     return(
         <>  
             <div className='counter'>
-                Counter <Badge color="info">{count}</Badge>
+                Simple Counter <Badge color="info">{count}</Badge>
             </div>
 
              <div>
